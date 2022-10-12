@@ -1,4 +1,4 @@
-## Naomi Schlösser
+# Naomi Schlösser
 
 From a structural engineer to a full stack developer! Both involve problem solving, breaking down a large problem into smaller pieces, and building something from scratch. All things I really enjoy. After almost 4 years as a structural engineer, I decided to make a switch and start the software development bootcamp with Makers.
 
@@ -23,7 +23,7 @@ Structural Engineer
 Project Structural Glass Engineer
 
 - Design and engineer specialist glass structures and complex geometries
-- Lead, manage and complete international projects within budget and time
+- Manage and complete international projects within budget and time
 - Meet with clients, architects, contractors and manufacturers
 - Presented my paper Glass Quality and Specification of Curved Panels at Glass Performance Days (GDP), Finland (Jun 2019)
 - Responsible for organising the team socials and running the office project presentations
@@ -45,17 +45,20 @@ I enjoy being involved in the organisation of socials, hence me being in all kin
 ## Education
 
 #### Makers Academy (Jun 2022 to Oct 2022)
-A 16-week intensive development bootcamp focusing on:
+A 16-week intensive software development bootcamp focusing on:
 - Pair programming to problem solve efficiently, requiring teamwork and communication
-- Debugging
-- Ruby
+- Shaping your code by using TDD using RSpec, Jest and Cypress (E2E testing)
+- Refactoring to keep code simple, organised and readable for others
+- Ruby, Javascript, Node
+- SQL and MongoDB as databases
+- Sinatra and Express as web frameworks
 
-#### Technical University of Delft (2011 to 2018)
+#### Delft University of Technology (2011 to 2018)
 
-- Master of Building Engineering <br />
+- MSc Civil Engineering <br />
   Actively involved in the U-BASE Study Tour Committee to organise a two-week study tour with 23 students and 2 professors to Shenzhen, Macau, Hong Kong and Guangzhou.
-- Premaster of Building Engineering
-- Bachelor of Architecture, Urbanism and Building Sciences
+- Premaster Civil Engineering
+- BSc Architecture, Urbanism and Buiding Sciences
 
 ## Interests
 
