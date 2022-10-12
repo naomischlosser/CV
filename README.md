@@ -1,1 +1,1 @@
-![CV](https://github.com/naomischlosser/CV//CV-NS?raw=true)
+![CV](https://github.com/naomischlosser/CV/blob/main/CV-NS.png)
