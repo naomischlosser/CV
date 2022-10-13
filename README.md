@@ -31,7 +31,7 @@ From a structural engineer to a full stack software developer! Both involve prob
 
 ## Experience
 
-**Makers Academy** (Jun 2022 to Oct 2022)
+**Makers Academy** (Jun 2022 to Oct 2022)  
 A 16-week intensive software development bootcamp focusing on:
 
 - Pair programming to problem solve efficiently, requiring teamwork and communication
