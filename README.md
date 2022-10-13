@@ -1,4 +1,4 @@
-<h1 align="center"> Naomi Schlösser <h3 align="center"> Junior Full Stack Software Developer </h3> <h1>
+<h1 align="center"> Naomi Schlösser <br> Junior Full Stack Software Developer </h1>
 
 <p>
   <div align="center">
