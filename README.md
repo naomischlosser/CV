@@ -1,4 +1,4 @@
-<h1 align="center"> Naomi Schlösser - Junior Full Stack Developer</h1>
+<h1 align="center"> Naomi Schlösser <br> Junior Full Stack Developer</h1>
 <p>
   <div align="center">
     <a href="https://github.com/naomischlosser/CV/blob/main/README.md#projects">Projects</a> |
@@ -33,6 +33,7 @@ From a structural engineer to a full stack software developer! Both involve prob
 
 **Makers Academy** (Jun 2022 to Oct 2022)
 A 16-week intensive software development bootcamp focusing on:
+
 - Pair programming to problem solve efficiently, requiring teamwork and communication
 - Shaping your code by using TDD using RSpec, Jest and Cypress (E2E testing)
 - Refactoring to keep code simple, organised and readable for others
