@@ -1,4 +1,6 @@
-<h1 align="center"> Naomi Schlösser <br> Junior Full Stack Developer</h1>
+<h1 align="center"> Naomi Schlösser <h1>
+<h2 align="center"> Junior Full Stack Software Developer </h2>
+
 <p>
   <div align="center">
     <a href="https://github.com/naomischlosser/CV/blob/main/README.md#projects">Projects</a> |
