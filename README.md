@@ -78,18 +78,18 @@ Glass Structural Engineer
 I am determined to find the answer to a problem and make sure to deliver the work to a high standard within time. As a structural engineer I used to search through codes, standards and scientific articles to find what I was looking for and reach out to people, whether they are colleagues or other specialists in the industry, to get to the bottom of an issue. In software development, google and pairing are my best friends to solve a problem.
 
 #### Organised
-At my previous jobs, people generally asked me where to find documents on the server as I always knew where everything was. I also like to plan ahead to meet a deadline and not wait until the last minute. This is extremely important when working as a structural engineer with regular deadlines where, depending on the different stages of the project, you need to submit a structural report to Building Control and structural drawings with plans and details to the architect and contractor. And when it comes to writing code, I make a great effort to be thorough and consistent when naming functions and classes, and I strive for my code to be clean and easy to read by others. When starting my final project at Makers for example, the code was initially in one ‘index.js’ file, but soon became unmanageable. The project being a 2D scrolling game, I suggested we should restructure the code by splitting it up in four scenes: prestart, gamestart, gameplay, gameover. I then implemented a base game class that these four scenes could inherit. As a result, the structure was more clear and enabled the team to easily expand and develop our game based on these classes.
+I like to plan ahead to meet a deadline and not wait until the last minute. This is extremely important when working as a structural engineer with regular deadlines where, depending on the different stages of the project, you need to submit a structural report to Building Control and structural drawings with plans and details to the architect and contractor. And when it comes to writing code, I make a great effort to be thorough and consistent when naming functions and classes, and I strive for my code to be clean and easy to read by others. When starting my final project at Makers for example, the code was initially in one ‘index.js’ file, but soon became unmanageable. The project being a 2D scrolling game, I suggested we should restructure the code by splitting it up in four scenes: prestart, gamestart, gameplay, gameover. I then implemented a base game class that these four scenes could inherit. As a result, the structure was more clear and enabled the team to easily expand and develop our game.
 
 #### Team player
-As a structural engineer, you often have to work on your own projects, but I have never really understood that. I always feel you are learning twice as much when you're working on a problem together, such as pairing. I always try to make sure everyone in the team is heard, is learning as part of the team and doesn’t feel left out. This means I ask for everyone’s opinion in discussions and suggested during one of our projects at Makers we study the tech stack we were given together to make sure everyone understood it before writing any new code. I believe that sharing your knowledge doesn’t only help others, it also helps you understand it better when you are trying to learn something new.
+As a structural engineer, you often have to work on your own projects, but I have never really understood that. I always feel you are learning twice as much when you're working on a problem together, such as pairing. When working together, I always try to make sure everyone in the team is heard and doesn’t feel left out. This means I ask for everyone’s opinion in discussions, suggested during one of our projects at Makers we study the tech stack we were given together to make sure everyone understood it before writing any new code and demo the features we have been working at retros. I believe that sharing your knowledge doesn’t only help others, it also helps you understand it better when you are trying to learn something new.
 
 #### Social
-I love being involved in the organisation of socials, hence me being in all kinds of social committees in the past. It's very rewarding to see people enjoying something you put together. It's also a great way to get to know your colleagues better.
+I love being involved in the organisation of socials, hence me being in all kinds of social committees in the past. It's very rewarding to see people enjoying something you put together. It's also a great way to get to know your colleagues better. This is also the reason why I would like to work in a hybrid environment. I find it so much easier to build a connection and ask questions when you’ve met people in person.
 
 ## Interests
 
-- Snowboarding, cycling and swimming
-- Traveling
-- Architecture and design, I love looking at iconic pieces of furniture and good architecture
-- Fashion, finding a good value second-hand piece is so rewarding!
-- Drawing
+🏂 Snowboarding, cycling and swimming
+🌍 Traveling
+🏛️ Architecture and design, I love looking at iconic pieces of furniture and good architecture
+👚 Fashion, finding a good value second-hand piece is so rewarding!
+🎨 Drawing
