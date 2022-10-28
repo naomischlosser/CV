@@ -88,8 +88,8 @@ I love being involved in the organisation of socials, hence me being in all kind
 
 ## Interests
 
-🏂 Snowboarding, cycling and swimming
-🌍 Traveling
-🏛️ Architecture and design, I love looking at iconic pieces of furniture and good architecture
-👚 Fashion, finding a good value second-hand piece is so rewarding!
+🏂 Snowboarding, cycling and swimming <br />
+🌍 Traveling <br />
+🏛️ Architecture and design, I love looking at iconic pieces of furniture and good architecture <br />
+👚 Fashion, finding a good value second-hand piece is so rewarding! <br />
 🎨 Drawing
